@@ -6,5 +6,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gatolife-creator&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- --------------------------------- :) ---------------------------------- -->
+[![](https://github-readme-streak-stats.herokuapp.com/?user=gatolife-creator&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=gatolife-creator&theme=dark)
+
 <br><br><br>
