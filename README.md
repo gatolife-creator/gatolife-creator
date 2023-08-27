@@ -9,7 +9,7 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gatolife-creator"
 />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gatolife-creator&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gatolife-creator&theme=discord&no-frame=true&row=1&margin-w=0&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=gatolife-creator&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=gatolife-creator&theme=dark)
 
