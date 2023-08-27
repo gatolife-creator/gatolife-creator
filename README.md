@@ -1,8 +1,9 @@
 # Profile
 
-![GatoLife's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatolife-creator&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatolife-creator&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatolife-creator&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=gatolife-creator&theme=onedark&show_icons=ture" />
+</p>
 
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gatolife-creator"
