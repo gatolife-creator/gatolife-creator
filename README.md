@@ -1,8 +1,8 @@
 # Profile
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatolife-creator&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=gatolife-creator&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatolife-creator&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=gatolife-creator&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
 <img
